@@ -17,3 +17,6 @@ It demonstrates basic concepts like loops, condition handling, and exception han
 ## Output Example
 Enter how many Fibonacci numbers you want: 5  
 Output: [0, 1, 1, 2, 3]
+
+## Output Screenshot
+![Program Output](output.png)
